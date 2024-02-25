@@ -12,8 +12,8 @@ email: zini9405@gmail.com
 # email_title: Email (Email title override)
 # phone: +82 10-5487-4484
 # phone_title: Phone (Phone title override)
-website: https://sites.google.com/view/kvl
-website_title: KNU Vision & Learning Lab
+# website: https://sites.google.com/view/kvl
+# website_title: KNU Vision & Learning Lab
 
 # address:
 #   street: IT1 309, 80 Daehak-ro
@@ -58,9 +58,9 @@ googlescholar_username: 9bsecQIAAAAJ&hl=ko
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/junwon.jpg
+about_profile_image: images/Junwon.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, Heechul Jung so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Hello! I am a Ph.D. student at [KNU Vision & Learning Lab](https://sites.google.com/view/kvl), receiving guidance from Professor <mark>Heechul Jung</mark>. My current research interests focus on <mark>video recognition</mark>, <mark>domain adaptation</mark>, and <mark>time series analysis</mark>. Furthermore, I am also interested in applying these technologies to <mark>medical image analysis</mark>.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
