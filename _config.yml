@@ -60,13 +60,17 @@ googlescholar_username: 9bsecQIAAAAJ&hl=ko
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/Junwon.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hello! I am a Ph.D. student at [KNU Vision & Learning Lab](https://sites.google.com/view/kvl), receiving guidance from Professor <mark>Heechul Jung</mark>. My current research interests focus on <mark>video recognition</mark>, <mark>domain adaptation</mark>, and <mark>time series analysis</mark>. Furthermore, I am also interested in applying these technologies to <mark>medical image analysis</mark>.
+  Hello! I am a Ph.D. student at [KNU Vision & Learning Lab](https://sites.google.com/view/kvl), receiving guidance from Professor <mark>Heechul Jung</mark>. My current research interests focus on video recognition, domain adaptation, and time series analysis. Furthermore, I am also interested in applying these technologies to medical image analysis.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  Besides research, I am also interested in watching movies and playing games.
+    - Harry Potter series
+    - Teamfight Tactics
+  
+# You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+#   - Lists
+#   - Tables
+#   - <a href="google.com">Links</a>
+#   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
