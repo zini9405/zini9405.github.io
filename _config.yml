@@ -60,7 +60,7 @@ googlescholar_username: 9bsecQIAAAAJ&hl=ko
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/Junwon.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hello! I am a Ph.D. student at [KNU Vision & Learning Lab](https://sites.google.com/view/kvl), receiving guidance from Professor <mark>Heechul Jung</mark>. My current research interests focus on video recognition, domain adaptation, and time series analysis. Furthermore, I am also interested in applying these technologies to medical image analysis.
+  Hello! I am a Ph.D. student at [KNU Vision & Learning Lab](https://sites.google.com/view/kvl), receiving guidance from Prof. <mark>Heechul Jung</mark>. My current research interests focus on video recognition, domain adaptation, and time series analysis. Furthermore, I am also interested in applying these technologies to medical image analysis.
 
   Besides research, I am also interested in watching movies and playing games.
     - Harry Potter series
@@ -73,6 +73,17 @@ about_content: | # this will include new lines to allow paragraphs
 #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
+  - title: Education
+    layout: list
+    content:
+      - layout: top-right
+        title: Kyungpook National University
+        sub_title: Integrated Master's & Ph.D in Artificial Intelligence, KNU
+        caption: Sep. 2020 - Current
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -105,17 +116,7 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
-  - title: Education
-    layout: list
-    content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
