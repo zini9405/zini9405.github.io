@@ -73,7 +73,7 @@ about_content: | # this will include new lines to allow paragraphs
 #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Education
+  - title: EDUCATION
     layout: list
     content:
       - layout: left
@@ -90,7 +90,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Integrated Master's & Ph.D in Artificial Intelligence, KNU
           - Sep. 2020 - Nov. 2023, Prof. minho Lee
-      - layout: left
+      - layout: center
         title: Kyungpook National University
         # sub_title: B.S. in Mathematics and Electronic Engineering (Double Major), KNU
         # caption: Mar. 2015 - Aug. 2020
@@ -98,8 +98,25 @@ content:
           - B.S. in Mathematics and Electronic Engineering (Double Major), KNU
           - Mar. 2015 - Aug. 2020
 
+  - title: INTERNATIONAL JOURNAL
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Baek, S., Kim, J., Lee, J., & Lee, M. (2023). Implementation of a Virtual Assistant System Based on Deep Multi-modal Data Integration. Journal of Signal Processing Systems, 1-11.
+      - Hwang, K., Lee, J., Jalali, A., & Lee, M. (2023). Predicting the Refrigerant Amounts across Air Conditioners with a Domain Adaptive Lightweight Transformer. IEEE Transactions on Consumer Electronics.
+   
+  - title: INTERNATIONAL CONFERENCES
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
+      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
+  - title: DOMESTIC CONFERENCES (IN KOREAN)
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+
+      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 
 
