@@ -127,7 +127,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Lee, M., Lee, J. (2023). Distribution Improvement Network Domains. KR Software C-2023-061726
-      - Lee, M., Lee, J. (2023). Detection of sensor data errors with AI. KR Software C-2023-061725
+      - Lee, M., Lee, J. (2023). Detection of Sensor Data Errors with AI. KR Software C-2023-061725
 
 
   
