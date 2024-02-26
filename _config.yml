@@ -79,27 +79,27 @@ content:
       - layout: top-right
         title: Kyungpook National University
         sub_title: Integrated Master's & Ph.D in Artificial Intelligence, KNU
-        caption: Sep. 2020 - Current
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+        caption: Dec. 2023 - Current, Prof. Heechul Jung
+        # quote: >
+        #   Short institution or course description (optional)
+        # description: | # this will include new lines to allow paragraphs
+        #   Description of qualification
       - layout: center
         title: Kyungpook National University
         sub_title: Integrated Master's & Ph.D in Artificial Intelligence, KNU
-        caption: Sep. 2020 - Current
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+        caption: Sep. 2020 - Nov. 2023, Prof. minho Lee
+        # quote: >
+        #   Short institution or course description (optional)
+        # description: | # this will include new lines to allow paragraphs
+        #   Description of qualification
       - layout: top-left
         title: Kyungpook National University
-        sub_title: Integrated Master's & Ph.D in Artificial Intelligence, KNU
-        caption: Sep. 2020 - Current
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+        sub_title: B.S. in Mathematics, KNU
+        caption: Mar. 2015 - Aug. 2020
+        # quote: >
+        #   Short institution or course description (optional)
+        # description: | # this will include new lines to allow paragraphs
+        #   Description of qualification
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
