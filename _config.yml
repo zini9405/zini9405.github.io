@@ -89,8 +89,8 @@ content:
         # sub_title: B.S. in Mathematics and Electronic Engineering (Double Major), KNU
         # caption: Mar. 2015 - Aug. 2020
         description: | # this will include new lines to allow paragraphs
-          B.S. in Mathematics and Electronic Engineering (Double Major), KNU
-          Mar. 2015 - Aug. 2020
+          - B.S. in Mathematics and Electronic Engineering (Double Major), KNU
+          - Mar. 2015 - Aug. 2020
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
