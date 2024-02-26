@@ -78,12 +78,18 @@ content:
     content:
       - layout: left
         title: Kyungpook National University
-        sub_title: Integrated Master's & Ph.D in Artificial Intelligence, KNU
-        caption: Dec. 2023 - Current, Prof. Heechul Jung
+        # sub_title: Integrated Master's & Ph.D in Artificial Intelligence, KNU
+        # caption: Dec. 2023 - Current, Prof. Heechul Jung
+        description: | # this will include new lines to allow paragraphs
+          - Integrated Master's & Ph.D in Artificial Intelligence, KNU
+          - Dec. 2023 - Current, Prof. Heechul Jung
       - layout: left
         title: Kyungpook National University
-        sub_title: Integrated Master's & Ph.D in Artificial Intelligence, KNU
-        caption: Sep. 2020 - Nov. 2023, Prof. minho Lee
+        # sub_title: Integrated Master's & Ph.D in Artificial Intelligence, KNU
+        # caption: Sep. 2020 - Nov. 2023, Prof. minho Lee
+        description: | # this will include new lines to allow paragraphs
+          - Integrated Master's & Ph.D in Artificial Intelligence, KNU
+          - Sep. 2020 - Nov. 2023, Prof. minho Lee
       - layout: left
         title: Kyungpook National University
         # sub_title: B.S. in Mathematics and Electronic Engineering (Double Major), KNU
@@ -91,6 +97,12 @@ content:
         description: | # this will include new lines to allow paragraphs
           - B.S. in Mathematics and Electronic Engineering (Double Major), KNU
           - Mar. 2015 - Aug. 2020
+
+
+
+
+
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
