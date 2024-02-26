@@ -80,14 +80,10 @@ content:
         title: Kyungpook National University
         sub_title: Integrated Master's & Ph.D in Artificial Intelligence, KNU
         caption: Dec. 2023 - Current, Prof. Heechul Jung
-    layout: list
-    content:
       - layout: center
         title: Kyungpook National University
         sub_title: Integrated Master's & Ph.D in Artificial Intelligence, KNU
         caption: Sep. 2020 - Nov. 2023, Prof. minho Lee
-    layout: list
-    content:
       - layout: left
         title: Kyungpook National University
         sub_title: B.S. in Mathematics and Electronic Engineering (Double Major), KNU
