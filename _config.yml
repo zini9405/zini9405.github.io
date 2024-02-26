@@ -102,7 +102,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Baek, S., Kim, J., Lee, J., & Lee, M. (2023). Implementation of a Virtual Assistant System Based on Deep Multi-modal Data Integration. Journal of Signal Processing Systems, 1-11.
-      - Hwang, K., Lee, J., Jalali, A., & Lee, M. (2023). Predicting the Refrigerant Amounts across Air Conditioners with a Domain Adaptive Lightweight Transformer. IEEE Transactions on Consumer Electronics.
+      - Hwang, K.*, Lee, J.*, Jalali, A., & Lee, M. (2023). Predicting the Refrigerant Amounts across Air Conditioners with a Domain Adaptive Lightweight Transformer. IEEE Transactions on Consumer Electronics.
    
   - title: INTERNATIONAL CONFERENCES
     layout: text
