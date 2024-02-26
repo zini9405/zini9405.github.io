@@ -88,10 +88,10 @@ content:
         title: Kyungpook National University
         sub_title: B.S. in Mathematics and Electronic Engineering (Double Major), KNU
         caption: Mar. 2015 - Aug. 2020
-        # quote: >
-        #   Short institution or course description (optional)
-        # description: | # this will include new lines to allow paragraphs
-        #   Description of qualification
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
