@@ -101,25 +101,21 @@ content:
   - title: INTERNATIONAL JOURNAL
     layout: text
     content: | # this will include new lines to allow paragraphs
+      - Hwang, K.*, Lee, J.*, Jalali, A., & Lee, M. (2023). Predicting the Refrigerant Amounts across Air Conditioners with a Domain Adaptive Lightweight Transformer. IEEE Transactions on Consumer Electronics. (* equal contributions)
       - Baek, S., Kim, J., Lee, J., & Lee, M. (2023). Implementation of a Virtual Assistant System Based on Deep Multi-modal Data Integration. Journal of Signal Processing Systems, 1-11.
-      - Hwang, K.*, Lee, J.*, Jalali, A., & Lee, M. (2023). Predicting the Refrigerant Amounts across Air Conditioners with a Domain Adaptive Lightweight Transformer. IEEE Transactions on Consumer Electronics.
-   
+      
   - title: INTERNATIONAL CONFERENCES
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-
+      - Lee, J., Hwang, K., Kwak, M. & Lee, M. (2022). Domain adaptation training of a transformer. IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia), pp. 1–5.
+      
   - title: DOMESTIC CONFERENCES (IN KOREAN)
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-
-
-
+      - Lee, J., Lee, M. (2023). Utilizing Artificial Intelligence for Battlefield Situation Recognition. Korea Institute of Military Science and Technology (KIMST).
+      - Lee, J., Lee, M. (2023). Artificial Intelligence to recognize battlefield situation. COGNITIVE SCIENCE.
+      - Lee, J., Lee, M. (2022). Memory-augmented Video Understanding for capturing temporal context. COGNITIVE SCIENCE.
+     
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
