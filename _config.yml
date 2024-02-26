@@ -60,7 +60,7 @@ googlescholar_username: 9bsecQIAAAAJ&hl=ko
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/Junwon.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hello! I am a Ph.D. student at [KNU Vision & Learning Lab](https://sites.google.com/view/kvl), receiving guidance from Prof. <mark>Heechul Jung</mark>. My current research interests focus on video recognition, domain adaptation, and time series analysis. Furthermore, I am also interested in applying these technologies to medical image analysis.
+  Hello! I am a Ph.D. student at [KNU Vision & Learning Lab](https://sites.google.com/view/kvl), receiving guidance from Prof. <mark>Heechul Jung</mark>. My current research interests focus on Video Recognition, Domain Adaptation, and Timeseries Analysis. Furthermore, I am also interested in applying these technologies to Medical Image analysis.
 
   Besides research, I am also interested in watching movies and playing games.
     - Harry Potter series
@@ -83,12 +83,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Integrated Master's & Ph.D in Artificial Intelligence, KNU
           - Dec. 2023 - Current, Prof. Heechul Jung
-      - layout: left
-        title: Kyungpook National University
-        # sub_title: Integrated Master's & Ph.D in Artificial Intelligence, KNU
-        # caption: Sep. 2020 - Nov. 2023, Prof. minho Lee
-        description: | # this will include new lines to allow paragraphs
-          - Integrated Master's & Ph.D in Artificial Intelligence, KNU
           - Sep. 2020 - Nov. 2023, Prof. Minho Lee
       - layout: left
         title: Kyungpook National University
