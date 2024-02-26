@@ -74,10 +74,10 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Education
-    layout: list
+    layout: text
     content:
       - layout: right
-        title: Kyungpook National University
+        title: Kyungpook National University ===
         sub_title: Integrated Master's & Ph.D in Artificial Intelligence, KNU
         caption: Dec. 2023 - Current, Prof. Heechul Jung
         # quote: >
