@@ -115,7 +115,23 @@ content:
       - Lee, J., Lee, M. (2023). Utilizing Artificial Intelligence for Battlefield Situation Recognition. Korea Institute of Military Science and Technology (KIMST).
       - Lee, J., Lee, M. (2023). Artificial Intelligence to recognize battlefield situation. COGNITIVE SCIENCE.
       - Lee, J., Lee, M. (2022). Memory-augmented Video Understanding for capturing temporal context. COGNITIVE SCIENCE.
+
+  - title: PATENT (IN KOREAN)
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Lee, M., Lee, J., Lee, J., Bae, J. (2021). ONLINE ACTION PROPOSAL GENERATION METHOD AND ACTION PROPOSAL GENERATION DEVICE USING SPATIO-TEMPORAL ATTENTION NETWORKS. KR Patent 10-2021-0190265
+      - Lee, M., Lee, J., Park, H. (2021). REGION DE　IVE PRE-LEARNING METHOD WITH SELF-ATTENTION TOWARDS VISUAL QUESTION ANSWERING AND PRE-LEARNING DEVICE PERFORMING THE SAME. KR Patent 10-2021-0182951
+      - Lee, M., Lee, J., Park, T. (2021). MULTI-MODEL HIERARCHICAL REASONING METHOD BASED ON COGNITIVE BEHAVIORAL CYCLE, AND DEVICE FOR PERFORMING IT. KR Patent 10-2021-0162397
+
+  - title: DOMESTIC CONFERENCES (IN KOREAN)
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Lee, J., Lee, M. (2023). Utilizing Artificial Intelligence for Battlefield Situation Recognition. Korea Institute of Military Science and Technology (KIMST).
+      - Lee, J., Lee, M. (2023). Artificial Intelligence to recognize battlefield situation. COGNITIVE SCIENCE.
+      - Lee, J., Lee, M. (2022). Memory-augmented Video Understanding for capturing temporal context. COGNITIVE SCIENCE.
      
+
+  
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
