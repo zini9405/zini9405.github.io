@@ -152,16 +152,6 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: 한국연구재단
-
-        quote: >
-          심화학습 기술을 이용한 전통기록문자 인식 및 해독(20210301~20210731)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
-          
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
         title: 국방과학연구소
 
         quote: >
@@ -267,17 +257,16 @@ content:
         title: LG Electronics Inc.
         quote: >
           Development of a General Model for Classifying Refrigerant Shortage Using Artificial Intelligence (20240101~20241231)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+        # description: | # this will include new lines to allow paragraphs
+        #   제가 개발한 에어컨 냉매량 에측 기술은 학국에서 높은 정확도를 보여줍니다. 그러나, 다양한 나라에 적용하기에는 적합하지 않은 기술입니다. 이를 해결하기 위해 5개의 외국 에어컨의 센서 데이터를 통해 새로운 에어컨 냉매 예측 기술을 개발할 예정입니다.
   
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: National Research Foundation of Korea 
-        quote: >
-          National Research Foundation of Korea Discovery of Problem-Solving Educational Content Using an Artificial Intelligence Platform-20230701~20231231
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Discovery of Problem-Solving Educational Content Using an Artificial Intelligence Platform-20230701~20231231
+          
   
   
   
