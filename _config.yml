@@ -131,41 +131,41 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: 정보통신기획평가원
+        title: Institute of Information & communications Technology Planning & Evaluation
         description: | # this will include new lines to allow paragraphs
-          - 의료데이터 분석 지능형 SW 기술개발(20200901 ~ 20210228)
-          - 복합정보 기반 예측지능 혁신 기술 연구 (20210101~20211231) (20220101~20221231) (20230101 ~ 20231231)
-          
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: 국방과학연구소
-        description: | # this will include new lines to allow paragraphs
-          - 상황인식을 통한 보고문장 자동생성 연구(MX-41) (20210101~20211231) (20220101~20221231)
-          - 비침습 BCI 기반 동영상 표적 인식 기술 연구(20230401~20230930)(20231001~20240229)
-  
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: LG Electronics Inc.
-        description: | # this will include new lines to allow paragraphs
-          - Development of a General Model for Classifying Refrigerant Shortage Using Artificial Intelligence (20240101~20241231)
-          - 냉매량 감지 정확도 개선 기술(20221201~20231130)
-          - 에어컨 고객 사용패턴 학습기반 에어컨 자동운전 로직 및 경량화 모델 개발(20220928~20230927)
-          - 에어컨 절전 및 공간 쾌적을 위한 강화학습 기반의 에어컨 최적 운전 알고리즘(20230401~20230430)
-          - 냉매량 감지 기술(20210901~20220831)
-  
+          - Research on Innovative Technologies for Prediction Intelligence Based on Complex Information, Jan. 2021 - Dec. 2023.
+          - Development of Intelligent SW Technology for Medical Data Analysis, Sep. 2020 - Feb. 2021.
+         
+
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: National Research Foundation of Korea 
         description: | # this will include new lines to allow paragraphs
-          - 산/학/연 활성을 위한 인공지능 솔루션 컨설팅 프로세스 정립(20220901~20230113)
-          - Discovery of Problem-Solving Educational Content Using an Artificial Intelligence Platform-20230701~20231231
-          - 메타버스 가상서원 구축을 위한 딥러닝 기반 전통기록물 해독(20220801~20230228) (20230301~20240229)
-          - 대화를 통해 지식을 생성, 활용 및 증강하는 인공지능 에이전트(20220301~20220831)
-          - 심화학습 기술을 이용한 전통기록문자 인식 및 해독(20210301~20210731)
-  
+          - Exploration of Problem-Solving Educational Content Using an Artificial Intelligence Platform, Jul. 2023 - Dec. 2023.
+          - Establishment of an AI Solution Consulting Process to Activate Industry-Academia-Research Cooperation, Sep. 2022 - Jan. 2023.
+          - Construction of a Metaverse Virtual Library Using Deep Learning-Based Deciphering of Traditional Records, Aug. 2022 - Feb. 2024.
+          - Creating, Utilizing, and Augmenting Knowledge Through Conversation with an Artificial Intelligence Agent, Mar. 2022 - Aug. 2024.
+          - Recognition and Deciphering of Traditional Record Characters Using Deep Learning Technology, Mar. 2021 - Jul. 2021.
+          
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Agency for Defense Development
+        description: | # this will include new lines to allow paragraphs
+          - Research on Video Target Recognition Technology Based on Non-Invasive BCI, Apr. 2023 - Feb. 2024.
+          - Research on Automatic Generation of Report Sentences Through Situation Awareness (MX-41), Jan. 2023 - Dec. 2022.
+      
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: LG Electronics Inc.
+        description: | # this will include new lines to allow paragraphs
+          - Development of a Universal Model for Refrigerant Shortage Classification Using Artificial Intelligence, Jan. 2024 - Dec. 2024.
+          - Optimal Operation Algorithm of Air Conditioners for Energy Saving and Comfort in Space Using Reinforcement Learning, April. 2023 - April. 2023.
+          - Technology for Improving the Accuracy of Refrigerant Quantity Detection, Dec. 2022 - Nov. 2023.
+          - Development of Air Conditioner Auto-Operation Logic and Lightweight Model Based on Customer Usage Pattern Learning, Sep. 2022 - Sep. 2023.
+          - Refrigerant Quantity Detection Technology, Sep. 2021 - Aug. 2022.
   
   # - title: A Little More About Me
   #   layout: text
