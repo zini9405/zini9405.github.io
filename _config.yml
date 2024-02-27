@@ -263,7 +263,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Discovery of Problem-Solving Educational Content Using an Artificial Intelligence Platform (20230701~20231231)
+        title: Discovery of Problem-Solving Educational Content Using an Artificial Intelligence Platform-20230701~20231231
         quote: >
           National Research Foundation of Korea
         description: | # this will include new lines to allow paragraphs
