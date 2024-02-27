@@ -263,9 +263,9 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: 한국연구재단
+        title: Discovery of Problem-Solving Educational Content Using an Artificial Intelligence Platform (20230701~20231231)
         quote: >
-          인공지능 플랫폼을 활용한 문제해결형 교육컨텐츠 발굴(20230701~20231231)
+          National Research Foundation of Korea
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
   
