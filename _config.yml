@@ -242,7 +242,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
   
-        - layout: left
+      - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: 엘지전자㈜
@@ -251,7 +251,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
  
-          - layout: left
+      - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: 국방과학연구소
@@ -260,7 +260,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
   
-          - layout: left
+      - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: 한국연구재단
@@ -269,7 +269,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
   
-          - layout: left
+      - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: 엘지전자㈜
