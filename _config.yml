@@ -95,33 +95,33 @@ content:
   - title: INTERNATIONAL JOURNAL
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Hwang, K*., Lee, J*., Jalali, A., & Lee, M. (2023). Predicting the Refrigerant Amounts across Air Conditioners with a Domain Adaptive Lightweight Transformer. IEEE Transactions on Consumer Electronics. (* equal contributions)
-      - Baek, S., Kim, J., Lee, J., & Lee, M. (2023). Implementation of a Virtual Assistant System Based on Deep Multi-modal Data Integration. Journal of Signal Processing Systems, 1-11.
+      - Hwang, K\*., ##Lee, J.##\*, Jalali, A., & Lee, M. (2023). Predicting the Refrigerant Amounts across Air Conditioners with a Domain Adaptive Lightweight Transformer. IEEE Transactions on Consumer Electronics. (\* equal contributions)
+      - Baek, S., Kim, J., ##Lee, J.##, & Lee, M. (2023). Implementation of a Virtual Assistant System Based on Deep Multi-modal Data Integration. Journal of Signal Processing Systems, 1-11.
       
   - title: INTERNATIONAL CONFERENCES
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Lee, J., Hwang, K., Kwak, M. & Lee, M. (2022). Domain adaptation training of a transformer. IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia), pp. 1–5.
+      - ##Lee, J.##, Hwang, K., Kwak, M. & Lee, M. (2022). Domain adaptation training of a transformer. IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia), pp. 1–5.
       
   - title: DOMESTIC CONFERENCES (IN KOREAN)
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Lee, J., Lee, M. (2023). Utilizing Artificial Intelligence for Battlefield Situation Recognition. Korea Institute of Military Science and Technology (KIMST).
-      - Lee, J., Lee, M. (2023). Artificial Intelligence to recognize battlefield situation. COGNITIVE SCIENCE.
-      - Lee, J., Lee, M. (2022). Memory-augmented Video Understanding for capturing temporal context. COGNITIVE SCIENCE.
+      - ##Lee, J.##, Lee, M. (2023). Utilizing Artificial Intelligence for Battlefield Situation Recognition. Korea Institute of Military Science and Technology (KIMST).
+      - ##Lee, J.##, Lee, M. (2023). Artificial Intelligence to recognize battlefield situation. COGNITIVE SCIENCE.
+      - ##Lee, J.##, Lee, M. (2022). Memory-augmented Video Understanding for capturing temporal context. COGNITIVE SCIENCE.
 
-  - title: PATENT (IN KOREAN)
+  - title: DOMESTIC PATENT (IN KOREAN)
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Lee, M., Lee, J., Bae, J. (2021). Online Action Proposal Generation Method and Action Proposal Generation Device Using Spatio-Temporal Attention Networks. KR Patent 10-2021-0190265
-      - Lee, M., Lee, J., Park, H. (2021). Region DeIVE Pre-Learning Method with Self-Attention Towards Visual Question Answering and Pre-Learning Device Performing the Same. KR Patent 10-2021-0182951
-      - Lee, M., Lee, J., Park, T. (2021). Multi-Model Hierarchical Reasoning Method Based on Cognitive Behavioral Cycle, and Device for Performing It. KR Patent 10-2021-0162397
+      - Lee, M., ##Lee, J.##, Bae, J. (2021). Online Action Proposal Generation Method and Action Proposal Generation Device Using Spatio-Temporal Attention Networks. KR Patent 10-2021-0190265
+      - Lee, M., ##Lee, J.##, Park, H. (2021). Region DeIVE Pre-Learning Method with Self-Attention Towards Visual Question Answering and Pre-Learning Device Performing the Same. KR Patent 10-2021-0182951
+      - Lee, M., ##Lee, J.##, Park, T. (2021). Multi-Model Hierarchical Reasoning Method Based on Cognitive Behavioral Cycle, and Device for Performing It. KR Patent 10-2021-0162397
   
-  - title: SOFTWARE (IN KOREAN)
+  - title: DOMESTIC SOFTWARE (IN KOREAN)
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Lee, M., Lee, J. (2023). Distribution Improvement Network Domains. KR Software C-2023-061726
-      - Lee, M., Lee, J. (2023). Detection of Sensor Data Errors with AI. KR Software C-2023-061725
+      - Lee, M., ##Lee, J.## (2023). Distribution Improvement Network Domains. KR Software C-2023-061726
+      - Lee, M., ##Lee, J.## (2023). Detection of Sensor Data Errors with AI. KR Software C-2023-061725
 
 
   
